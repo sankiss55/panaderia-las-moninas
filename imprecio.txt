@@ -1,0 +1,9 @@
+================================
+        Factura de venta        
+ Num.factura B001               
+ Fecha de Emision 01/01/24      
+ Hora:12:22:25                  
+ Vendedorsantiago               
+ Compradorsantiago              
+                                
+                                
